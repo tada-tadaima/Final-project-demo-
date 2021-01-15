@@ -9,3 +9,6 @@
 2.做出成功畫面<br> 
 3.改變失敗畫面<br> 
 4.改變顏色<br> 
+
+影片:<br>
+[vod](https://drive.google.com/file/d/1v5ktCX4HAJfB2z7mbo2U41WEUbk39Jsw/view?usp=sharing) <br>
